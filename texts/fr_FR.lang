@@ -1,132 +1,155 @@
-[Inventaires]
-container.enderchest=§9§k.§f.§c.§r  §cHistChest §9§k.§f.§c.§r
+[Inventories]
+container.enderchest=§9§k.§f.§c.§r  §cHisteria Chest §9§k.§f.§c.§r
 
-[Armures]
-item.nocturite_helmet.name=Casque en Nocturite
-item.nocturite_chestplate.name=Plastron en Nocturite
-item.nocturite_leggings.name=Jambières en Nocturite
-item.nocturite_boots.name=Bottes en Nocturite
-item.histerite_helmet.name=Casque en Histerite
-item.histerite_chestplate.name=Plastron en Histerite
-item.histerite_leggings.name=Jambières en Histerite
-item.histerite_boots.name=Bottes en Histerite
-item.hood_helmet.name=Capuche
+[Blocks]
+tile.histeria:elevator.name=Ascenceur
+tile.histeria:drawer.name=Commode
+tile.histeria:histerite_anvil.name=Enclume en Histerite
+tile.histeria:fertilized_dirt.name=Terre fertilisée
+tile.histeria:reinforced_obsidian.name=Obsidienne renforcée
+tile.histeria:poisonous_obsidian.name=Obsidienne empoisonnée
+tile.histeria:random_ore.name=Minerai aléatoire
+tile.histeria:histerite_ore.name=Minerai d'Histerite
+tile.histeria:box.name=Boite à butin
+tile.histeria:cave_block.name=Cave Block
+tile.histeria:cobble_breaker.name=Brise-roche
+tile.histeria:histerite_block.name=Bloc en Histerite
+tile.histeria:nocturite_block.name=Bloc en Nocturite
+tile.histeria:nocturite_chest.name=Coffre en Nocturite
+tile.histeria:histerite_chest.name=Coffre en Histerite
+tile.histeria:lucky_block.name=Lucky Block
+tile.histeria:neon_block.name=Bloc néon
+tile.histeria:spike.name=Épine
+tile.histeria:bounce.name=Rebond
+tile.histeria:event_magma=Neige en fusion
 
-[Bâtons]
-item.heal_stick.name=Bâton de guerrier
-item.speed_stick.name=Bâton de rapidité
-item.jump_stick.name=Bâton de saut
-item.teleportation_stick.name=§dBâton de téléportation
+[Armors]
+item.histeria:nocturite_helmet=Casque en Nocturite
+item.histeria:nocturite_chestplate=Plastron en Nocturite
+item.histeria:nocturite_leggings=Jambières en Nocturite
+item.histeria:nocturite_boots=Bottes en Nocturite
+item.histeria:histerite_helmet=Casque en Histerite
+item.histeria:histerite_chestplate=Plastron en Histerite
+item.histeria:histerite_leggings=Jambières en Histerite
+item.histeria:histerite_boots=Bottes en Histerite
+item.histeria:hood_helmet=Capuche
+item.histeria:hades_crown=Couronne d'Hadès
+item.histeria:hermes_sandals=Sandales d'Hermès
+item.histeria:ares_chestplate=Plastron d'Arès
 
-[Objets]
-item.emerald.name=Histerite
-item.histerite_stick.name=Bâton en Histerite
-item.histerite_compress.name=Histerite compréssée
-item.histerite_core.name=Coeur d'Histerite
-item.histerite.name=Lingot d'Histerite
-item.cake.name= §9§k.§4.§r§k. §r§cLe GATOOooo de dadodasyra §9§k.§4.§r§k.
-item.compressed_cobblestone.name=Pierre taillé compressée
-item.histerite_apple.name=§bPomme en Histerite
-item.item_pack.name=Sac à dos
-item.thunder_bolt.name=§bÉclair
-item.magic_lyre.name=§bLyre magique
-item.shuriken.name=Shuriken
-item.killtag.name=§bKilltag
-item.bank_note.name=Chèque
-item.chest_finder.name=Unclaim Finder
-item.drawer_upgrade.name=Mise à niveau de boîte à rangement
-item.dynamite.name=Dynamite
-item.grapnel.name=§bGrappin
-item.obsidian_breaker.name=Casseur à obsidienne
-item.hang_glider.name=Planeur
-item.chest_explorer.name=Exploreur de coffre
-item.skull.skeleton.name=Spike
-item.skull.zombie.name=Enclume en Histerite
-item.sponger.name=Eponge puissante
-item.lottery_ticket.name=§eTicket de loterie
-item.forge_note.name=Parchemin d'enchantement
-item.punching_ball.name=Punching Ball
-item.nether_wart.name=Graines en Nocturite
+[Crafts]
+item.histeria:compressed_cobblestone=Pierre taillée compressée
+item.histeria:histerite_compress=Histerite compressée
+item.histeria:histerite_core=Coeur d'Histerite
+item.histeria:histerite_ingot=Lingot d'Histerite
+item.histeria:histerite_stick=Bâton d'Histerite
+item.histeria:nocturite_compress=Nocturite compressée
+item.histeria:nocturite_core=Coeur de Nocturite
+item.histeria:nocturite_crystal=Cristal de Nocturite
+item.histeria:nocturite_fruit=Fruit de Nocturite
+item.histeria:nocturite_seeds=Graines de Nocturite
 
-[Clés]
-item.vote_key.name=Clé de Vote
-item.histerite_key.name=§bClé en Histerite
-item.nocturite_key.name=§dClé en Nocturite
+[Decorations]
+item.histeria:block_category=Catégorie Blocs
+item.histeria:item_category=Catégorie Items
+item.histeria:ore_category=Catégorie Minerais
+item.histeria:nature_category=Catégorie Nature
+item.histeria:modded_item_category=Catégorie Items Moddés
+item.histeria:decoration_category=Catégorie Décoration
+item.histeria:buy=Acheter
+item.histeria:sell=Vendre
+item.histeria:valid_mark=Valider
+item.histeria:arrow_left=Flèche Gauche
+item.histeria:arrow_right=Flèche Droite
+item.histeria:arrow_return=Flèche Retour
+item.histeria:donator_icon=Donateur
+item.histeria:omega_icon=Oméga
+item.histeria:inter_icon=Interplanétaire
+item.histeria:vip_icon=VIP
 
-[Nocturite]
-item.nocturite_seeds.name=Graines de Nocturite
-item.nocturite_fruit.name=Fruit en Nocturite
-item.nocturite_crystal.name=Cristal de Nocturite
-item.nocturite_compress.name=§bNocturite compréssée
-item.nocturite_core.name=§dCoeur en Nocturite
+[Event]
+item.histeria:christmas_ball=Boule de Noël
+item.histeria:leap=Plume de Noël
+item.histeria:christmas_rocket=Fusée de Noël
+item.histeria:bomb=Bombe de Noël
+item.histeria:snow_shovel=Pelle à neige
+item.histeria:christmas_star=Etoile de Noël
+item.histeria:candy_cane=Sucre d'orge
+item.histeria:red_candy=Sucre d'orge
+item.histeria:blue_candy=Bonbon bleu
+item.histeria:yellow_candy=Bonbon jaune
+item.histeria:snow_globe=Boule à neige
 
-[Outils]
-item.spear.name=§bLance en Histerite
-item.xiphos.name=§bXiphos en Histerite
-item.harpè.name=§bHarpè en Histerite
-item.lotus_staff.name=§bSceptre du Lotus
-item.histerite_sword.name=§bEpée en Histerite
-item.histerite_axe.name=§bHache en Histerite
-item.histerite_hoe.name=§bHoue en Histerite
-item.histerite_pickaxe.name=§bPioche en Histerite
-item.histerite_shovel.name=§bPelle en Histerite
-item.seed_planter.name=§bPlanteur à graine
-item.hammer.name=§bMarteau
+[Fossils]
+item.histeria:cracked_stone=Coquillage de pierre fissurée
+item.histeria:fish=Coquillage de poisson
+item.histeria:shell=Coquillage
+item.histeria:skull=Caquillage de crâne
+item.histeria:stone_vein=Coquille de veine de pierre
 
-[Blocs]
-tile.bone_block.name=Ascenceur
-tile.end_portal_frame.name=Caisse à récompense
-tile.hay_block.name=Boîte à rangement
-tile.sponge.dry.name=Lucky Block
-tile.soul_sand.name=Terre fertilisé
-tile.emerald_ore.name=Minerai d'Histerite
-tile.emerald_block.name=Bloc d'Histerite
-tile.lapis_ore.name=Minerai de chance
-tile.noteblock.name=Cave Block
-tile.netherreactor.name=Obsidienne empoisonnée
-tile.glowingobsidian.name=Obsidienne réenforcée
-tile.redstone_lamp.name=Bloc à Neon
-tile.nether_wart_block.name=Bloc de Nocturite
-tile.nether_wart.name=Graines de Nocturite
+[Keys]
+item.histeria:boss_key=Clé de Boss
+item.histeria:histerite_key=Clé en Histerite
+item.histeria:nocturite_key=Clé en Nocturite
+item.histeria:vote_key=Clé de vote
 
-[Flèches]
-item.arrow_left.name=Flèche Gauche
-item.arrow_right.name=Flèche Droite
-item.arrow_return.name=Flèche Retour
+[Sticks]
+item.histeria:heal_stick=Bâton de soin
+item.histeria:jump_stick=Bâton de saut
+item.histeria:speed_stick=Bâton de vitesse
+item.histeria:sponger=Bâton de sécheresse
+item.histeria:tpstick=Bâton de téléportation
 
-[Catégories Boutique]
-item.block_category.name=Categorie Bloc
-item.item_category.name=Categorie Item
-item.ore_category.name=Categorie Minerais
-item.nature_category.name=Categorie Nature
-item.modded_item_category.name=Categorie Item Moddés
-item.decoration_category.name=Categorie Décoration
-item.buy.name=Acheter
-item.sell.name=Vendre
-item.valid_mark.name=Valider
+[Tools]
+item.histeria:grapnel=Grappin
+item.histeria:hammer=Marteau
+item.histeria:harpe=Harpe
+item.histeria:histerite_axe=Hache en Histerite
+item.histeria:histerite_hoe=Houe en Histerite
+item.histeria:histerite_pickaxe=Pioche en Histerite
+item.histeria:histerite_shovel=Pelle en Histerite
+item.histeria:histerite_sword=Épée en Histerite
+item.histeria:lotus_staff=Sceptre du Lotus
+item.histeria:seed_planter=Planteur à graines
+item.histeria:spear=Lance
+item.histeria:xiphos=Xiphos
 
-[Item à lancer]
-entity.egg.name=Dynamite
-entity.snowball.name=Shuriken
+[Utility]
+item.histeria:banknote=Billet de banque
+item.histeria:chalice=Calice
+item.histeria:chest_explorer=Explorateur de coffre
+item.histeria:chest_finder=Chercheur de coffre
+item.histeria:drawer_upgrade=Amélioration de commode
+item.histeria:dynamite=Dynamite
+item.histeria:fishing_rod_cast=Grappin
+item.histeria:forge_note=Parchemin d'enchantement
+item.histeria:hang_glider=Planeur
+item.histeria:histerite_apple=Pomme en Histerite
+item.histeria:histerite_totem=Totem en Histerite
+item.histeria:item_pack=Sac à dos
+item.histeria:killtag=Kill-Tag
+item.histeria:lottery_ticket=Ticket de loterie
+item.histeria:magic_lyre=Lyre magique
+item.histeria:obsidian_breaker=Casseur à obsidienne
+item.histeria:punching_ball=Boule de frappe
+item.histeria:shuriken=Shuriken
+item.histeria:thunderbolt=Coup de tonnerre
 
-[Grades]
-item.donator_icon.name=Donateur
-item.omega_icon.name=Omega
-item.inter_icon.name=Interplanétaire
-item.vip_icon.name=VIP
-
-[Menus]
-menu.returnToMenu=§cQuitter :'(
-pauseScreen.quit=§cQuitter :'(
-deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=§cQuitter :'(
-deathScreen.message=§4Vous êtes mort !
-deathScreen.quit=§cRage quit
-deathScreen.quit.confirm=§cÊtes-vous sûr de ragequit?
-deathScreen.quit.confirmToMainMenuWarning=§cÊtes-vous sûr de ragequit?
-deathScreen.quit.confirmToMainMenuTitleWarning=§cÊtes-vous sûr de ragequit?
-disconnectionScreen.cantConnect=Impossible de se connecter à Histeria. Si vous pensez que l'erreur vient de Histeria, merci de rejoindre discord.gg/histeria.
-
-[Autre]
+[Others]
 dayOneExperience.tab.marketplace=shop.histeria.fr
 trial.tour.marketplace=shop.histeria.fr
 menu.serverStore=shop.histeria.fr
+
+[Menus]
+menu.returnToMenu=Quitter
+pauseScreen.quit=Quitter
+deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=§lQuitter
+deathScreen.message=§l§cVous êtes mort !
+deathScreen.quit=§l§cRage quit
+deathScreen.quit.confirm=§l§cÊtes-vous sûr de vouloir quitter ?
+deathScreen.quit.confirmToMainMenuWarning=§cÊtes-vous sûr de quitter ?
+deathScreen.quit.confirmToMainMenuTitleWarning=§cÊtes-vous sûr de quitter ?
+disconnectionScreen.cantConnect=Impossible de se connecter à Histeria. Si vous pensez que l'erreur vient de Histeria, merci de rejoindre §6discord.gg/histeria§r et d'y créer un ticket.
+
+[Menu Pause]
+histeria.store=Rendez-vous sur §l§3shop.histeria.fr §ret §l§9discord.gg/histeria §r§l!
